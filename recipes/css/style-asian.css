@@ -1,0 +1,54 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: lightblue;
+}
+
+.Des {
+    background-color: rgba(244, 244, 12, 0.212);
+    color: purple;
+    font-size: 30px;
+    font-weight: 100px;
+    font-family: sans-serif;
+}
+
+.ul,
+.ol {
+    font-family: 'Times New Roman', 'Times', sans-serif;
+}
+
+.ul {
+    color: pink;
+    font-size: large;
+}
+
+.ol {
+    color:aquamarine;
+    font-size: small;
+}
+
+.ul .li {
+    color:blueviolet;
+}
+
+.ol .li {
+    color: red;
+}
+
+.ul2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end 
+}
+
+
+
+
+

@@ -1,0 +1,14 @@
+.recipe {
+    color: red;
+    background-color: rgb(144, 194, 238);
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, sans-serif
+}
+
+h1 {
+    color: blueviolet;
+}
+.recipe:hover{
+    background-color: yellow;
+    color: purple;
+}
